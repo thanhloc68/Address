@@ -1,7 +1,4 @@
-
-{
-    "result": {
-        "stations":[
+[
     {
      "Name": "Quận Ba Đình"
     },
@@ -2118,5 +2115,4 @@
      "Name": "Huyện Yên Bình"
     }
    ]
-},
 }
